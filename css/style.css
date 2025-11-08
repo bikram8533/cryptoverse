@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-/* 
+/*
     font-family: "Outfit", sans-serif;
     font-family: "Poppins", sans-serif;
     font-family: "Arca Majora Bold", sans-serif;
@@ -21,17 +21,21 @@
   src: url("../fonts/arca-majora/ArcaMajora3-Bold.otf");
 }
 
+html{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scrollbar-width: none;
 }
 
 body {
   font-family: "Outfit", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  /* Regualr */
   color: #e2e2e2;
   background-color: #02171d;
 }
