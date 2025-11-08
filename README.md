@@ -101,7 +101,7 @@ Cryptoverse/
 ## 📸 Screenshots
 
 ```
-![Homepage Screenshot](./images/screenshots/home-page.png)
+![Homepage Screenshot](https://github.com/bikram8533/cryptoverse/blob/main/images/screenshots/home-page.png)
 ```
 
 ---
