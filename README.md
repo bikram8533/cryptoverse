@@ -73,7 +73,7 @@ Cryptoverse/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/bikram8533/Cryptoverse.git
+   git clone https://github.com/bikram8533/cryptoverse.git
    ```
 
 2. **Navigate into the Project Folder**
