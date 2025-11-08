@@ -1,13 +1,14 @@
 # 🌐 Cryptoverse – Trusted & Secure Crypto Trading Website
 
-Cryptoverse is a **modern, responsive multi-page cryptocurrency trading and portfolio website** built using **HTML5, CSS3, and JavaScript**.  
+Cryptoverse is a **modern, responsive multi-page cryptocurrency trading and portfolio website** built using **HTML5, CSS3, and JavaScript**.
 It features elegant design sections such as Hero Banner, Features, Live Market Prices, Team, Blog, and more — fully responsive across all devices.
 
 ---
 
 ## 🪙 Live Preview
+
 If hosted on GitHub Pages or Netlify, add your link here:
-👉 [Live Demo](https://yourusername.github.io/Cryptoverse/)
+👉 [Live Demo](https://bikram8533.github.io/Cryptoverse/)
 
 ---
 
@@ -46,47 +47,50 @@ Cryptoverse/
 
 ## ⚙️ Features
 
-✅ **Responsive Design** – Optimized for all screen sizes (desktop, tablet, mobile)  
-✅ **Reusable Layout System** – Built with modular CSS grid system  
-✅ **Live Crypto Market Section** – Displays dynamic pricing structure  
-✅ **Smooth Navigation Bar** – Includes mobile menu toggle  
-✅ **Professional Sections** – Feature cards, Reviews, Blog, and Team layout  
-✅ **Modern UI/UX** – Clean design inspired by crypto platforms  
+✅ **Responsive Design** – Optimized for all screen sizes (desktop, tablet, mobile)
+✅ **Reusable Layout System** – Built with modular CSS grid system
+✅ **Live Crypto Market Section** – Displays dynamic pricing structure
+✅ **Smooth Navigation Bar** – Includes mobile menu toggle
+✅ **Professional Sections** – Feature cards, Reviews, Blog, and Team layout
+✅ **Modern UI/UX** – Clean design inspired by crypto platforms
 
 ---
 
 ## 🛠️ Technologies Used
 
-| Technology | Description |
-|-------------|-------------|
-| **HTML5** | Structure and semantic layout |
-| **CSS3** | Styling, animations, and responsive design |
-| **JavaScript (ES6)** | Interaction and functionality |
-| **Font Awesome** | Icons for UI elements |
-| **Google Fonts** | Typography (if used) |
+| Technology           | Description                                |
+| -------------------- | ------------------------------------------ |
+| **HTML5**            | Structure and semantic layout              |
+| **CSS3**             | Styling, animations, and responsive design |
+| **JavaScript (ES6)** | Interaction and functionality              |
+| **Font Awesome**     | Icons for UI elements                      |
+| **Google Fonts**     | Typography (if used)                       |
 
 ---
 
 ## 🚀 How to Run This Project Locally
 
 1. **Clone the Repository**
+
    ```bash
-   git clone https://github.com/<your-username>/Cryptoverse.git
+   git clone https://github.com/bikram8533/Cryptoverse.git
    ```
 
 2. **Navigate into the Project Folder**
+
    ```bash
    cd Cryptoverse
    ```
 
 3. **Open in VS Code**
+
    ```bash
    code .
    ```
 
 4. **Run the Website**
-   - Simply open `index.html` in your browser  
-   OR  
+   - Simply open `index.html` in your browser
+     OR
    - Use VS Code Live Server extension:
      ```bash
      right-click → “Open with Live Server”
@@ -96,15 +100,14 @@ Cryptoverse/
 
 ## 📸 Screenshots
 
-Add preview images or section screenshots here if possible:
 ```
-![Homepage Screenshot](./images/banner/banner-iamge-bitcoin-stack.png)
-![Features Section](./images/glow-feature/easy-to-transfer.png)
+![Homepage Screenshot](./images/screenshots/home-page.png)
 ```
 
 ---
 
 ## 🌍 Folder Naming & Media Files
+
 - Keep all images organized in their respective folders (`/images/banner`, `/images/footer`, etc.).
 - Ensure all file paths are relative when pushing to GitHub Pages.
 
@@ -112,16 +115,16 @@ Add preview images or section screenshots here if possible:
 
 ## 🧠 Author
 
-**👤 Bikram**  
-🎓 Diploma in Civil Engineering  
-💼 Passionate about web development, front-end design, and modern UI.  
+**👤 Bikram**
+🎓 HTML Frontend Developer
 
-📧 **Contact:** your-email@example.com  
-🌐 **GitHub:** [github.com/your-username](https://github.com/your-username)
+📧 **Contact:** bikram8538@gmail.com
+🌐 **GitHub:** [github.com/bikram8533](https://github.com/bikram8533)
 
 ---
 
 ## 📜 License
+
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
@@ -129,6 +132,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## ⭐ How to Contribute or Support
 
 If you like this project:
+
 - Give it a ⭐ on GitHub!
 - Fork and submit improvements or suggestions.
 - Share your version or customization!
@@ -137,10 +141,10 @@ If you like this project:
 
 ## 🧩 Future Improvements
 
-- [ ] Add real-time API-based crypto price updates.  
-- [ ] Add login and wallet dashboard functionality.  
-- [ ] Dark/Light theme toggle.  
-- [ ] Smooth scroll animations and better mobile navigation.  
+- [ ] Add real-time API-based crypto price updates.
+- [ ] Add login and wallet dashboard functionality.
+- [ ] Dark/Light theme toggle.
+- [ ] Smooth scroll animations and better mobile navigation.
 
 ---
 
