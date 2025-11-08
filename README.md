@@ -8,7 +8,7 @@ It features elegant design sections such as Hero Banner, Features, Live Market P
 ## 🪙 Live Preview
 
 If hosted on GitHub Pages or Netlify, add your link here:
-👉 [Live Demo](https://bikram8533.github.io/Cryptoverse/)
+👉 [Live Demo](https://bikram8533.github.io/cryptoverse/)
 
 ---
 
